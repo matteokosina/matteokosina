@@ -19,21 +19,19 @@
 
 ## Tech-Stack
 
+![sGo](https://img.shields.io/badge/Go-007acc?style=for-the-badge&logo=go&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&labelColor=red&logo=coffeescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![sGo](https://img.shields.io/badge/Go-007acc?style=for-the-badge&logo=go&logoColor=white)
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge?logo=kubernetes&logoColor=fff)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-007acc?style=for-the-badge&logo=kubernetes&logoColor=white)](https://)
+[![Crossplane](https://img.shields.io/badge/Crossplane-orange?style=for-the-badge&logo=crossplane&logoColor=orange)](https://)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Jetbrains](https://img.shields.io/badge/Jetbrains-0078d7?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
