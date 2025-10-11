@@ -29,12 +29,6 @@
 [![Cloud Foundry](https://img.shields.io/badge/Cloud_Foundry-blue?style=for-the-badge&logo=cloudfoundry&logoColor=white)](https://)
 [![SAP BTP](https://img.shields.io/badge/SAP_BTP-blue?style=for-the-badge&logo=sap&logoColor=white)](https://)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 <br/>
