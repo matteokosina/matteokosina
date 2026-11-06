@@ -7,28 +7,3 @@
 </h2>
 
 
-## Tech-Stack
-
-![sGo](https://img.shields.io/badge/Go-007acc?style=for-the-badge&logo=go&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&labelColor=red&logo=coffeescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-007acc?style=for-the-badge&logo=kubernetes&logoColor=white)](https://)
-[![Crossplane](https://img.shields.io/badge/Crossplane-orange?style=for-the-badge&logo=crossplane&logoColor=orange)](https://)
-[![Cloud Foundry](https://img.shields.io/badge/Cloud_Foundry-blue?style=for-the-badge&logo=cloudfoundry&logoColor=white)](https://)
-[![SAP BTP](https://img.shields.io/badge/SAP_BTP-blue?style=for-the-badge&logo=sap&logoColor=white)](https://)
-
-
-
-<br/>
-
-<br/>
-
-<p align="left">
-
- <a href="https://de.linkedin.com/in/matteokosina" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- 
-</p>
